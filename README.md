@@ -1,6 +1,6 @@
 __Assume-se para este tutorial que o computador configurado possui ambiente Linux e GCC instalado.__
 
-Compressor Distribuído (MPI) e Paralelo (PThreads) de arquivos (Na visão de usuário):
+Compressor Distribuído/Paralelo (Na visão de usuário):
 ========
 
 ```
