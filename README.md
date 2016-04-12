@@ -1,10 +1,11 @@
 __Assume-se para este tutorial que o computador configurado possui ambiente Linux e GCC instalado.__
 
-Compressor Distribuído/Paralelo (Na visão de usuário):
+Compressor Distribuído/Paralelo
 ========
 
 ```
 * Compressor (Permite a compressão de arquivos utilizando similaridade de coocorrências).
+* Realiza a compressão em ambientes distribuídos (MPI) e paralelos (PThreads).
 ```
 
 Compilando o código fonte do Servidor/Cliente (GNU GCC):
