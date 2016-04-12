@@ -1,3 +1,10 @@
+/* Universidade Federal do Rio Grande do Sul UFRGS */
+/* Compressor de arquivos paralelo e distribuído utilizando linguagem C e bibliotecas MPI e PThreads */
+/* Disciplina : Introdução a Programação Paralela e Distribuída IPDPS 2013/II */
+/* Professor : Dr. Nicolas Maillard*/
+/* Aluno : Raffael Bottoli Schemmer */
+/* Data Termino : 30/11/2013 */
+
 #include <stdlib.h>
 #include <stdint.h>
 #include <stdio.h>
